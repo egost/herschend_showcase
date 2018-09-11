@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source /bin/virtualenvwrapper.sh
+workon data
+
+cd $PROJ/showcase
+jupyter notebook

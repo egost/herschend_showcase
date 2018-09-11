@@ -1,0 +1,3 @@
+[submodule "ride_throughput_parser"]
+	path = ride_throughput_parser
+	url = git@github.com:egost/ride_throughput_parser.git
